@@ -20,13 +20,13 @@
 
 ## Get to know me
 
-**I am a third-year student whose passions are related to anything aesthetic, that's why I'm focusing on front-end web development and some parts of UI/UX design. Teamwork and collaboration really interests me, as I can learn from their practical points of view and share mine as well. Competing against others is not my priority, instead I just want to focus on myself and get better everyday.**
+**Being a third-year student with interests in all things aesthetically pleasing, I'm concentrating on front-end web development and a few aspects of UI/UX design. I'm really interested in teamwork and collaboration because I can benefit from their real-world perspectives and contribute my own. Instead of focusing on competing with others, I would rather concentrate on improving every day.**
 
 - 🔭 I’m currently working on Front-end Web Development
 - 🌱 I’m currently learning NextJS and Figma
 - 👯 I’m looking to collaborate on Frontend projects
 - 🤔 I’m looking for help with Design Pattern and UI Design
-- ⚡ Fun fact: I prefer a full-of-natural-light working environment, it makes me much more confident and productive than a room with shadow and artificial light. So if it's possible, place me next to the window in an office  :) 
+- ⚡ Fun fact: I much prefer working in an environment with plenty of natural light because it boosts my confidence and productivity more than a dark room with artificial lighting. So please, if at all possible, put me in an office by a window.  :) 
 
 ## Skills 
 
