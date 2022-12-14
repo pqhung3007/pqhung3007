@@ -20,7 +20,7 @@
 
 ## Get to know me
 
-**Being a third-year student with interests in all things aesthetically pleasing, I'm concentrating on front-end web development and a few aspects of UI/UX design. I'm really interested in teamwork and collaboration because I can benefit from their real-world perspectives and contribute my own. Instead of focusing on competing with others, I would rather concentrate on improving every day.**
+**Being a junior student with interests in all things aesthetically pleasing, I'm concentrating on front-end web development and a few aspects of UI/UX design. I'm really interested in teamwork and collaboration because I can benefit from their real-world perspectives and contribute my own. Instead of focusing on competing with others, I would rather concentrate on improving every day.**
 
 - 🔭 I’m currently working on Front-end Web Development
 - 🌱 I’m currently learning NextJS and Figma
